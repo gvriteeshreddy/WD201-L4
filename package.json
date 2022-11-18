@@ -1,0 +1,21 @@
+{
+  "name": "wd201-l4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  
+  
+  "author": "riteesh",
+  "license": "ISC",
+  
+  "devDependencies": {
+    
+    "husky": "^8.0.1",
+    "jest": "^29.0.3"
+    
+  }
+}
